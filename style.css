@@ -1,0 +1,940 @@
+* {
+  background-color: #030353;
+}
+
+.star {
+  width: 3px;
+  height: 3px;
+  border-radius: 50%;
+  position: absolute;
+  background-color: #fff;
+}
+
+/*star positioning*/
+
+.star1 {
+  left: 33rem;
+  top: 10rem;
+  animation: star4 2s ease-in-out 1s infinite;
+}
+.star2 {
+  left: 18rem;
+  top: 16rem;
+  animation: star2 3s ease-in-out 1s infinite;
+}
+.star3 {
+  left: 24rem;
+  top: 12rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star4 {
+  left: 11rem;
+  top: 21rem;
+  animation: star2 2s ease-in-out 1s infinite;
+}
+.star5 {
+  left: 21rem;
+  top: 15rem;
+  animation: star4 3s ease-in-out 1s infinite;
+}
+.star6 {
+  left: 21rem;
+  top: 9rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star7 {
+  left: 22rem;
+  top: 8rem;
+  animation: star3 2s ease-in-out 1s infinite;
+}
+.star8 {
+  left: 12rem;
+  top: 7rem;
+  animation: star4 3s ease-in-out 1s infinite;
+}
+.star9 {
+  left: 7rem;
+  top: 5rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star10 {
+  left: 5rem;
+  top: 2rem;
+  animation: star3 2s ease-in-out 1s infinite;
+}
+.star11 {
+  left: 8em;
+  top: 6rem;
+  animation: star1 4s ease-in-out 1s infinite;
+}
+
+.star12 {
+  left: 17rem;
+  top: 37rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star13 {
+  left: 32rem;
+  top: 39rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star14 {
+  left: 12rem;
+  top: 45rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star15 {
+  left: 66rem;
+  top: 45rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star16 {
+  left: 21rem;
+  top: 47rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star17 {
+  left: 28rem;
+  top: 32rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star18 {
+  left: 74rem;
+  top: 20rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star19 {
+  left: 31rem;
+  top: 12rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star20 {
+  left: 50rem;
+  top: 15rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star21 {
+  left: 38rem;
+  top: 22rem;
+  animation: star1 4s ease-in-out 1s infinite;
+}
+.star22 {
+  left: 44rem;
+  top: 37rem;
+  animation: star1 4s ease-in-out 1s infinite;
+}
+.star23 {
+  left: 89rem;
+  top: 29rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+
+.star24 {
+  left: 95rem;
+  top: 24rem;
+  animation: star4 4s ease-in-out 0s infinite;
+}
+
+.star25 {
+  left: 71rem;
+  top: 22rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+.star26 {
+  left: 100rem;
+  top: 3rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+.star27 {
+  left: 89rem;
+  top: 55rem;
+  animation: star3 4s ease-in-out 0s infinite;
+}
+.star28 {
+  left: 112rem;
+  top: 10rem;
+  animation: star4 4s ease-in-out 0s infinite;
+}
+.star29 {
+  left: 69rem;
+  top: 15rem;
+  animation: star1 4s ease-in-out 0s infinite;
+}
+.star30 {
+  left: 90rem;
+  top: 34rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star31 {
+  left: 49rem;
+  top: 2rem;
+  animation: star1 4s ease-in-out 1s infinite;
+}
+.star32 {
+  left: 39rem;
+  top: 14rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star33 {
+  left: 99rem;
+  top: 29rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star34 {
+  left: 88rem;
+  top: 18rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star35 {
+  left: 93rem;
+  top: 23rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star36 {
+  left: 82rem;
+  top: 32rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star37 {
+  left: 83rem;
+  top: 39rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star38 {
+  left: 99rem;
+  top: 2rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star39 {
+  left: 88rem;
+  top: 7rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star40 {
+  left: 77rem;
+  top: 10rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+.star41 {
+  left: 59rem;
+  top: 10rem;
+  animation: star3 4s ease-in-out 0s infinite;
+}
+
+.star42 {
+  left: 66rem;
+  top: 16rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+.star43 {
+  left: 94rem;
+  top: 12rem;
+  animation: star3 4s ease-in-out 0s infinite;
+}
+.star44 {
+  left: 88rem;
+  top: 23rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+.star45 {
+  left: 117rem;
+  top: 57rem;
+  animation: star4 4s ease-in-out 0s infinite;
+}
+.star46 {
+  left: 115rem;
+  top: 44rem;
+  animation: star1 4s ease-in-out 0s infinite;
+}
+.star47 {
+  left: 110rem;
+  top: 38rem;
+  animation: star3 4s ease-in-out 0s infinite;
+}
+.star48 {
+  left: 108rem;
+  top: 57rem;
+  animation: star4 4s ease-in-out 0s infinite;
+}
+.star49 {
+  left: 100rem;
+  top: 45rem;
+  animation: star1 4s ease-in-out 0s infinite;
+}
+.star50 {
+  left: 99rem;
+  top: 41rem;
+  animation: star3 4s ease-in-out 0s infinite;
+}
+.star51 {
+  left: 88rem;
+  top: 43rem;
+  animation: star4 3s ease-in-out 0s infinite;
+}
+.star52 {
+  left: 102rem;
+  top: 56rem;
+  animation: star2 3s ease-in-out 0s infinite;
+}
+.star53 {
+  left: 104rem;
+  top: 25rem;
+  animation: star3 2s ease-in-out 0s infinite;
+}
+.star54 {
+  left: 11rem;
+  top: 56rem;
+  animation: star2 1s ease-in-out 0s infinite;
+}
+.star55 {
+  left: 15rem;
+  top: 44rem;
+  animation: star1 3s ease-in-out 0s infinite;
+}
+.star56 {
+  left: 11rem;
+  top: 29rem;
+  animation: star1 4s ease-in-out 0s infinite;
+}
+.star57 {
+  left: 5rem;
+  top: 37rem;
+  animation: star3 2s ease-in-out 0s infinite;
+}
+.star58 {
+  left: 62rem;
+  top: 57rem;
+  animation: star4 1s ease-in-out 0s infinite;
+}
+.star59 {
+  left: 61rem;
+  top: 51rem;
+  animation: star4 3s ease-in-out 1s infinite;
+}
+.star60 {
+  left: 61rem;
+  top: 44rem;
+  animation: star3 2s ease-in-out 1s infinite;
+}
+.star61 {
+  left: 65em;
+  top: 40rem;
+  animation: star1 1s ease-in-out 1s infinite;
+}
+
+.star62 {
+  left: 62rem;
+  top: 35rem;
+  animation: star3 3s ease-in-out 1s infinite;
+}
+.star63 {
+  left: 59rem;
+  top: 58rem;
+  animation: star2 2s ease-in-out 1s infinite;
+}
+.star64 {
+  left: 63rem;
+  top: 54rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star65 {
+  left: 64rem;
+  top: 48rem;
+  animation: star2 1s ease-in-out 1s infinite;
+}
+.star66 {
+  left: 24rem;
+  top: 57rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star67 {
+  left: 5rem;
+  top: 57rem;
+  animation: star2 2s ease-in-out 1s infinite;
+}
+.star68 {
+  left: 3rem;
+  top: 55rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star69 {
+  left: 20rem;
+  top: 55rem;
+  animation: star4 3s ease-in-out 1s infinite;
+}
+.star70 {
+  left: 29rem;
+  top: 53rem;
+  animation: star4 1s ease-in-out 1s infinite;
+}
+
+.star71 {
+  left: 3.5rem;
+  top: 48rem;
+  animation: star4 2s ease-in-out 1s infinite;
+}
+.star72 {
+  left: 2rem;
+  top: 23rem;
+  animation: star2 1s ease-in-out 1s infinite;
+}
+.star73 {
+  left: 3rem;
+  top: 15rem;
+  animation: star3 3s ease-in-out 1s infinite;
+}
+.star74 {
+  left: 23rem;
+  top: 25rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star75 {
+  left: 36rem;
+  top: 45rem;
+  animation: star4 1s ease-in-out 1s infinite;
+}
+.star76 {
+  left: 36rem;
+  top: 28rem;
+  animation: star4 2s ease-in-out 1s infinite;
+}
+.star77 {
+  left: 26rem;
+  top: 38rem;
+  animation: star3 3s ease-in-out 1s infinite;
+}
+.star78 {
+  left: 12rem;
+  top: 2rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star79 {
+  left: 47rem;
+  top: 1rem;
+  animation: star4 1s ease-in-out 1s infinite;
+}
+.star80 {
+  left: 118rem;
+  top: 2rem;
+  animation: star3 3s ease-in-out 1s infinite;
+}
+.star81 {
+  left: 119rem;
+  top: 6rem;
+  animation: star4 1s ease-in-out 1s infinite;
+}
+.star82 {
+  left: 115rem;
+  top: 25rem;
+  animation: star2 2s ease-in-out 1s infinite;
+}
+.star83 {
+  left: 114rem;
+  top: 34rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star84 {
+  left: 11rem;
+  top: 41rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star85 {
+  left: 69rem;
+  top: 15rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star86 {
+  left: 76rem;
+  top: 9rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star87 {
+  left: 72rem;
+  top: 8rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star88 {
+  left: 69rem;
+  top: 7rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star89 {
+  left: 117rem;
+  top: 45rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star90 {
+  left: 115rem;
+  top: 32rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star91 {
+  left: 55rem;
+  top: 39rem;
+  animation: star4 2s ease-in-out 1s infinite;
+}
+.star92 {
+  left: 66rem;
+  top: 32rem;
+  animation: star2 3s ease-in-out 1s infinite;
+}
+.star93 {
+  left: 63rem;
+  top: 27rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star94 {
+  left: 51rem;
+  top: 16rem;
+  animation: star2 2s ease-in-out 1s infinite;
+}
+.star95 {
+  left: 21rem;
+  top: 15rem;
+  animation: star4 3s ease-in-out 1s infinite;
+}
+.star96 {
+  left: 51rem;
+  top: 22rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star97 {
+  left: 39rem;
+  top: 35rem;
+  animation: star3 2s ease-in-out 1s infinite;
+}
+.star98 {
+  left: 29rem;
+  top: 21rem;
+  animation: star4 3s ease-in-out 1s infinite;
+}
+.star99 {
+  left: 45rem;
+  top: 25rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star100 {
+  left: 29rem;
+  top: 5rem;
+  animation: star3 2s ease-in-out 1s infinite;
+}
+.star101 {
+  left: 70rem;
+  top: 42rem;
+  animation: star4 2s ease-in-out 1s infinite;
+}
+.star102 {
+  left: 45rem;
+  top: 35rem;
+  animation: star2 3s ease-in-out 1s infinite;
+}
+.star103 {
+  left: 42rem;
+  top: 32rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star104 {
+  left: 32rem;
+  top: 56rem;
+  animation: star2 2s ease-in-out 1s infinite;
+}
+.star105 {
+  left: 60rem;
+  top: 20rem;
+  animation: star4 3s ease-in-out 1s infinite;
+}
+.star106 {
+  left: 70rem;
+  top: 4rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star107 {
+  left: 82rem;
+  top: 8rem;
+  animation: star3 2s ease-in-out 1s infinite;
+}
+.star108 {
+  left: 84rem;
+  top: 17rem;
+  animation: star4 3s ease-in-out 1s infinite;
+}
+.star109 {
+  left: 80rem;
+  top: 15rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star110 {
+  left: 95rem;
+  top: 24rem;
+  animation: star3 2s ease-in-out 1s infinite;
+}
+.star111 {
+  left: 98em;
+  top: 56rem;
+  animation: star1 4s ease-in-out 1s infinite;
+}
+
+.star112 {
+  left: 117rem;
+  top: 37rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star113 {
+  left: 65rem;
+  top: 59rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star114 {
+  left: 42rem;
+  top: 3rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star115 {
+  left: 40rem;
+  top: 5rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star116 {
+  left: 44rem;
+  top: 7rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star117 {
+  left: 48rem;
+  top: 8rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star118 {
+  left: 46rem;
+  top: 9rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star119 {
+  left: 53rem;
+  top: 7rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star120 {
+  left: 34rem;
+  top: 2rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star121 {
+  left: 21rem;
+  top: 2rem;
+  animation: star1 4s ease-in-out 1s infinite;
+}
+.star122 {
+  left: 59rem;
+  top: 2rem;
+  animation: star1 4s ease-in-out 1s infinite;
+}
+.star123 {
+  left: 58rem;
+  top: 4rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+
+.star124 {
+  left: 61rem;
+  top: 6rem;
+  animation: star4 4s ease-in-out 0s infinite;
+}
+
+.star125 {
+  left: 63rem;
+  top: 4rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+.star126 {
+  left: 54rem;
+  top: 1rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+.star127 {
+  left: 72rem;
+  top: 1rem;
+  animation: star3 4s ease-in-out 0s infinite;
+}
+.star128 {
+  left: 80rem;
+  top: 3rem;
+  animation: star4 4s ease-in-out 0s infinite;
+}
+.star129 {
+  left: 85rem;
+  top: 3rem;
+  animation: star1 4s ease-in-out 0s infinite;
+}
+.star130 {
+  left: 95rem;
+  top: 6rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star131 {
+  left: 106rem;
+  top: 5rem;
+  animation: star1 4s ease-in-out 1s infinite;
+}
+.star132 {
+  left: 105rem;
+  top: 6rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star133 {
+  left: 108rem;
+  top: 10rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star134 {
+  left: 111rem;
+  top: 18rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star135 {
+  left: 101rem;
+  top: 15rem;
+  animation: star2 4s ease-in-out 1s infinite;
+}
+.star136 {
+  left: 118rem;
+  top: 15rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star137 {
+  left: 65rem;
+  top: 35rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star138 {
+  left: 79rem;
+  top: 23rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star139 {
+  left: 43rem;
+  top: 18rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star140 {
+  left: 100rem;
+  top: 50rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+.star141 {
+  left: 100rem;
+  top: 10rem;
+  animation: star3 4s ease-in-out 0s infinite;
+}
+
+.star142 {
+  left: 100rem;
+  top: 44rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+.star143 {
+  left: 106rem;
+  top: 57rem;
+  animation: star3 4s ease-in-out 0s infinite;
+}
+.star144 {
+  left: 90rem;
+  top: 52rem;
+  animation: star2 4s ease-in-out 0s infinite;
+}
+.star145 {
+  left: 89rem;
+  top: 35em;
+  animation: star4 4s ease-in-out 0s infinite;
+}
+.star146 {
+  left: 87rem;
+  top: 51rem;
+  animation: star1 4s ease-in-out 0s infinite;
+}
+.star147 {
+  left: 90rem;
+  top: 52rem;
+  animation: star3 4s ease-in-out 0s infinite;
+}
+.star148 {
+  left: 93rem;
+  top: 44rem;
+  animation: star4 4s ease-in-out 0s infinite;
+}
+.star149 {
+  left: 97rem;
+  top: 13rem;
+  animation: star1 4s ease-in-out 0s infinite;
+}
+.star150 {
+  left: 99rem;
+  top: 21rem;
+  animation: star3 4s ease-in-out 0s infinite;
+}
+.star151 {
+  left: 115rem;
+  top: 44rem;
+  animation: star4 3s ease-in-out 0s infinite;
+}
+.star152 {
+  left: 104rem;
+  top: 23rem;
+  animation: star2 3s ease-in-out 0s infinite;
+}
+.star153 {
+  left: 102rem;
+  top: 25rem;
+  animation: star3 2s ease-in-out 0s infinite;
+}
+.star154 {
+  left: 111rem;
+  top: 56rem;
+  animation: star2 1s ease-in-out 0s infinite;
+}
+.star155 {
+  left: 115rem;
+  top: 44rem;
+  animation: star1 3s ease-in-out 0s infinite;
+}
+.star156 {
+  left: 15rem;
+  top: 29rem;
+  animation: star1 4s ease-in-out 0s infinite;
+}
+.star157 {
+  left: 115rem;
+  top: 37rem;
+  animation: star3 2s ease-in-out 0s infinite;
+}
+.star158 {
+  left: 82rem;
+  top: 57rem;
+  animation: star4 1s ease-in-out 0s infinite;
+}
+.star159 {
+  left: 99rem;
+  top: 51rem;
+  animation: star4 3s ease-in-out 1s infinite;
+}
+.star160 {
+  left: 2rem;
+  top: 44rem;
+  animation: star3 2s ease-in-out 1s infinite;
+}
+.star161 {
+  left: 5em;
+  top: 40rem;
+  animation: star1 1s ease-in-out 1s infinite;
+}
+
+.star162 {
+  left: 7rem;
+  top: 35rem;
+  animation: star3 3s ease-in-out 1s infinite;
+}
+.star163 {
+  left: 2rem;
+  top: 58rem;
+  animation: star2 2s ease-in-out 1s infinite;
+}
+.star164 {
+  left: 5rem;
+  top: 54rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star165 {
+  left: 65rem;
+  top: 48rem;
+  animation: star2 1s ease-in-out 1s infinite;
+}
+.star166 {
+  left: 24rem;
+  top: 57rem;
+  animation: star4 4s ease-in-out 1s infinite;
+}
+.star167 {
+  left: 73rem;
+  top: 57rem;
+  animation: star2 2s ease-in-out 1s infinite;
+}
+.star168 {
+  left: 1rem;
+  top: 55rem;
+  animation: star3 4s ease-in-out 1s infinite;
+}
+.star169 {
+  left: 50rem;
+  top: 55rem;
+  animation: star4 3s ease-in-out 1s infinite;
+}
+.star170 {
+  left: 69rem;
+  top: 53rem;
+  animation: star4 1s ease-in-out 1s infinite;
+}
+/*animations*/
+@keyframes star1 {
+  45% {
+    opacity: 0.1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  75% {
+    opacity: 1.2;
+  }
+  100% {
+    opacity: 0.1;
+  }
+}
+@keyframes star2 {
+  45% {
+    opacity: 0.75;
+  }
+  50% {
+    opacity: 0.1;
+  }
+  75% {
+    opacity: 1.74;
+  }
+  100% {
+    opacity: 0.75;
+  }
+}
+
+@keyframes star3 {
+  45% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 1.75;
+  }
+  75% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 0.1;
+  }
+}
+@keyframes star4 {
+  45% {
+    opacity: 0.7;
+  }
+  50% {
+    opacity: 1.1;
+  }
+  75% {
+    opacity: 1.5;
+  }
+  100% {
+    opacity: 0.75;
+  }
+}
+/*lovers*/
+.lovers {
+  width: 70rem;
+  margin-bottom: -57.8rem;
+  margin-left: 27rem;
+  z-index: 99;
+}
