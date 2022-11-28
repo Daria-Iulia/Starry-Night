@@ -1,5 +1,13 @@
 * {
-  background-color: #030353;
+  background: rgba(3, 3, 83, 1);
+  margin: 0;
+  overflow: hidden;
+}
+
+.photo img {
+  height: auto;
+  width: 120rem;
+  height: auto;
 }
 
 .star {
@@ -13,7 +21,7 @@
 /*star positioning*/
 
 .star1 {
-  left: 33rem;
+  left: 63rem;
   top: 10rem;
   animation: star4 2s ease-in-out 1s infinite;
 }
@@ -54,7 +62,7 @@
 }
 .star9 {
   left: 7rem;
-  top: 5rem;
+  top: 1rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star10 {
@@ -63,44 +71,44 @@
   animation: star3 2s ease-in-out 1s infinite;
 }
 .star11 {
-  left: 8em;
+  top: 6em;
   top: 6rem;
   animation: star1 4s ease-in-out 1s infinite;
 }
 
 .star12 {
-  left: 17rem;
-  top: 37rem;
+  left: 67rem;
+  top: 17rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star13 {
   left: 32rem;
-  top: 39rem;
+  top: 10rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star14 {
   left: 12rem;
-  top: 45rem;
+  top: 25rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star15 {
-  left: 66rem;
-  top: 45rem;
+  left: 26rem;
+  top: 10rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star16 {
   left: 21rem;
-  top: 47rem;
+  top: 27rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star17 {
   left: 28rem;
-  top: 32rem;
+  top: 2rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star18 {
   left: 74rem;
-  top: 20rem;
+  top: 3rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star19 {
@@ -109,35 +117,35 @@
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star20 {
-  left: 50rem;
+  left: 110rem;
   top: 15rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star21 {
   left: 38rem;
-  top: 22rem;
+  top: 1rem;
   animation: star1 4s ease-in-out 1s infinite;
 }
 .star22 {
-  left: 44rem;
-  top: 37rem;
+  left: 10rem;
+  top: 10rem;
   animation: star1 4s ease-in-out 1s infinite;
 }
 .star23 {
-  left: 89rem;
-  top: 29rem;
+  left: 62rem;
+  top: 21rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
 
 .star24 {
-  left: 95rem;
+  left: 105rem;
   top: 24rem;
   animation: star4 4s ease-in-out 0s infinite;
 }
 
 .star25 {
   left: 71rem;
-  top: 22rem;
+  top: 12rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
 .star26 {
@@ -146,8 +154,8 @@
   animation: star2 4s ease-in-out 0s infinite;
 }
 .star27 {
-  left: 89rem;
-  top: 55rem;
+  left: 24rem;
+  top: 15rem;
   animation: star3 4s ease-in-out 0s infinite;
 }
 .star28 {
@@ -156,63 +164,63 @@
   animation: star4 4s ease-in-out 0s infinite;
 }
 .star29 {
-  left: 69rem;
+  left: 29rem;
   top: 15rem;
   animation: star1 4s ease-in-out 0s infinite;
 }
 .star30 {
-  left: 90rem;
-  top: 34rem;
+  left: 100rem;
+  top: 14rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star31 {
-  left: 49rem;
+  left: 12rem;
   top: 2rem;
   animation: star1 4s ease-in-out 1s infinite;
 }
 .star32 {
   left: 39rem;
-  top: 14rem;
+  top: 1rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star33 {
-  left: 99rem;
+  left: 109rem;
   top: 29rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star34 {
-  left: 88rem;
   top: 18rem;
+  left: 68rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star35 {
-  left: 93rem;
+  left: 103rem;
   top: 23rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star36 {
-  left: 82rem;
-  top: 32rem;
+  top: 29rem;
+  left: 92rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star37 {
-  left: 83rem;
-  top: 39rem;
+  left: 23rem;
+  top: 10rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star38 {
-  left: 99rem;
+  left: 109rem;
   top: 2rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star39 {
-  left: 88rem;
-  top: 7rem;
+  top: 27rem;
+  left: 67rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star40 {
-  left: 77rem;
-  top: 10rem;
+  left: 15rem;
+  top: 2rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
 .star41 {
@@ -222,58 +230,58 @@
 }
 
 .star42 {
-  left: 66rem;
+  left: 26rem;
   top: 16rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
 .star43 {
-  left: 94rem;
+  left: 104rem;
   top: 12rem;
   animation: star3 4s ease-in-out 0s infinite;
 }
 .star44 {
-  left: 88rem;
+  left: 10rem;
   top: 23rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
 .star45 {
   left: 117rem;
-  top: 57rem;
+  top: 17rem;
   animation: star4 4s ease-in-out 0s infinite;
 }
 .star46 {
   left: 115rem;
-  top: 44rem;
+  top: 24rem;
   animation: star1 4s ease-in-out 0s infinite;
 }
 .star47 {
   left: 110rem;
-  top: 38rem;
+  top: 28rem;
   animation: star3 4s ease-in-out 0s infinite;
 }
 .star48 {
   left: 108rem;
-  top: 57rem;
+  top: 17rem;
   animation: star4 4s ease-in-out 0s infinite;
 }
 .star49 {
   left: 100rem;
-  top: 45rem;
+  top: 25rem;
   animation: star1 4s ease-in-out 0s infinite;
 }
 .star50 {
-  left: 99rem;
-  top: 41rem;
+  left: 109rem;
+  top: 21rem;
   animation: star3 4s ease-in-out 0s infinite;
 }
 .star51 {
-  left: 88rem;
-  top: 43rem;
+  left: 12rem;
+  top: 3rem;
   animation: star4 3s ease-in-out 0s infinite;
 }
 .star52 {
   left: 102rem;
-  top: 56rem;
+  top: 16rem;
   animation: star2 3s ease-in-out 0s infinite;
 }
 .star53 {
@@ -283,12 +291,12 @@
 }
 .star54 {
   left: 11rem;
-  top: 56rem;
+  top: 16rem;
   animation: star2 1s ease-in-out 0s infinite;
 }
 .star55 {
   left: 15rem;
-  top: 44rem;
+  top: 24rem;
   animation: star1 3s ease-in-out 0s infinite;
 }
 .star56 {
@@ -297,130 +305,130 @@
   animation: star1 4s ease-in-out 0s infinite;
 }
 .star57 {
-  left: 5rem;
-  top: 37rem;
+  left: 65rem;
+  top: 10rem;
   animation: star3 2s ease-in-out 0s infinite;
 }
 .star58 {
-  left: 62rem;
-  top: 57rem;
+  left: 22rem;
+  top: 17rem;
   animation: star4 1s ease-in-out 0s infinite;
 }
 .star59 {
-  left: 61rem;
-  top: 51rem;
+  left: 21rem;
+  top: 5rem;
   animation: star4 3s ease-in-out 1s infinite;
 }
 .star60 {
-  left: 61rem;
-  top: 44rem;
+  left: 21rem;
+  top: 24rem;
   animation: star3 2s ease-in-out 1s infinite;
 }
 .star61 {
-  left: 65em;
-  top: 40rem;
+  left: 25em;
+  top: 20rem;
   animation: star1 1s ease-in-out 1s infinite;
 }
 
 .star62 {
-  left: 62rem;
-  top: 35rem;
+  left: 22rem;
+  top: 25rem;
   animation: star3 3s ease-in-out 1s infinite;
 }
 .star63 {
   left: 59rem;
-  top: 58rem;
+  top: 18rem;
   animation: star2 2s ease-in-out 1s infinite;
 }
 .star64 {
-  left: 63rem;
-  top: 54rem;
+  left: 23rem;
+  top: 14rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star65 {
-  left: 64rem;
-  top: 48rem;
+  left: 24rem;
+  top: 28rem;
   animation: star2 1s ease-in-out 1s infinite;
 }
 .star66 {
   left: 24rem;
-  top: 57rem;
+  top: 8rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star67 {
   left: 5rem;
-  top: 57rem;
+  top: 17rem;
   animation: star2 2s ease-in-out 1s infinite;
 }
 .star68 {
   left: 3rem;
-  top: 55rem;
+  top: 13rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star69 {
   left: 20rem;
-  top: 55rem;
+  top: 2rem;
   animation: star4 3s ease-in-out 1s infinite;
 }
 .star70 {
   left: 29rem;
-  top: 53rem;
+  top: 20rem;
   animation: star4 1s ease-in-out 1s infinite;
 }
 
 .star71 {
   left: 3.5rem;
-  top: 48rem;
+  top: 20rem;
   animation: star4 2s ease-in-out 1s infinite;
 }
 .star72 {
   left: 2rem;
-  top: 23rem;
+  top: 10rem;
   animation: star2 1s ease-in-out 1s infinite;
 }
 .star73 {
-  left: 3rem;
-  top: 15rem;
+  left: 63rem;
+  top: 10rem;
   animation: star3 3s ease-in-out 1s infinite;
 }
 .star74 {
   left: 23rem;
-  top: 25rem;
+  top: 10rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star75 {
   left: 36rem;
-  top: 45rem;
+  top: 2rem;
   animation: star4 1s ease-in-out 1s infinite;
 }
 .star76 {
-  left: 36rem;
+  left: 56rem;
   top: 28rem;
   animation: star4 2s ease-in-out 1s infinite;
 }
 .star77 {
-  left: 26rem;
-  top: 38rem;
+  left: 12rem;
+  top: 10rem;
   animation: star3 3s ease-in-out 1s infinite;
 }
 .star78 {
-  left: 12rem;
-  top: 2rem;
+  left: 67rem;
+  top: 7rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star79 {
-  left: 47rem;
-  top: 1rem;
+  left: 86rem;
+  top: 5rem;
   animation: star4 1s ease-in-out 1s infinite;
 }
 .star80 {
-  left: 118rem;
-  top: 2rem;
+  left: 74rem;
+  top: 7rem;
   animation: star3 3s ease-in-out 1s infinite;
 }
 .star81 {
-  left: 119rem;
-  top: 6rem;
+  left: 34rem;
+  top: 23rem;
   animation: star4 1s ease-in-out 1s infinite;
 }
 .star82 {
@@ -429,62 +437,62 @@
   animation: star2 2s ease-in-out 1s infinite;
 }
 .star83 {
-  left: 114rem;
-  top: 34rem;
+  left: 28rem;
+  top: 25rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star84 {
-  left: 11rem;
-  top: 41rem;
+  left: 62rem;
+  top: 5rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star85 {
-  left: 69rem;
+  left: 29rem;
   top: 15rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star86 {
-  left: 76rem;
-  top: 9rem;
+  left: 22rem;
+  top: 13rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star87 {
-  left: 72rem;
-  top: 8rem;
+  left: 65rem;
+  top: 18rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star88 {
-  left: 69rem;
+  left: 99rem;
   top: 7rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star89 {
   left: 117rem;
-  top: 45rem;
+  top: 25rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star90 {
-  left: 115rem;
-  top: 32rem;
+  left: 111rem;
+  top: 22rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star91 {
-  left: 55rem;
-  top: 39rem;
+  left: 64rem;
+  top: 19rem;
   animation: star4 2s ease-in-out 1s infinite;
 }
 .star92 {
-  left: 66rem;
-  top: 32rem;
+  left: 96rem;
+  top: 31rem;
   animation: star2 3s ease-in-out 1s infinite;
 }
 .star93 {
-  left: 63rem;
+  left: 93rem;
   top: 27rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star94 {
-  left: 51rem;
+  left: 61rem;
   top: 16rem;
   animation: star2 2s ease-in-out 1s infinite;
 }
@@ -494,13 +502,13 @@
   animation: star4 3s ease-in-out 1s infinite;
 }
 .star96 {
-  left: 51rem;
+  left: 15rem;
   top: 22rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star97 {
-  left: 39rem;
-  top: 35rem;
+  left: 45rem;
+  top: 1rem;
   animation: star3 2s ease-in-out 1s infinite;
 }
 .star98 {
@@ -509,58 +517,58 @@
   animation: star4 3s ease-in-out 1s infinite;
 }
 .star99 {
-  left: 45rem;
+  left: 95rem;
   top: 25rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star100 {
   left: 29rem;
-  top: 5rem;
+  top: 1rem;
   animation: star3 2s ease-in-out 1s infinite;
 }
 .star101 {
-  left: 70rem;
-  top: 42rem;
+  left: 63rem;
+  top: 27rem;
   animation: star4 2s ease-in-out 1s infinite;
 }
 .star102 {
-  left: 45rem;
-  top: 35rem;
+  left: 72rem;
+  top: 5rem;
   animation: star2 3s ease-in-out 1s infinite;
 }
 .star103 {
-  left: 42rem;
-  top: 32rem;
+  left: 76rem;
+  top: 6rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star104 {
-  left: 32rem;
-  top: 56rem;
+  left: 79rem;
+  top: 7rem;
   animation: star2 2s ease-in-out 1s infinite;
 }
 .star105 {
-  left: 60rem;
-  top: 20rem;
+  left: 81rem;
+  top: 5rem;
   animation: star4 3s ease-in-out 1s infinite;
 }
 .star106 {
-  left: 70rem;
-  top: 4rem;
+  left: 77rem;
+  top: 5rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star107 {
-  left: 82rem;
-  top: 8rem;
+  top: 12rem;
+  left: 66rem;
   animation: star3 2s ease-in-out 1s infinite;
 }
 .star108 {
-  left: 84rem;
+  left: 105rem;
   top: 17rem;
   animation: star4 3s ease-in-out 1s infinite;
 }
 .star109 {
-  left: 80rem;
-  top: 15rem;
+  top: 7rem;
+  left: 75rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star110 {
@@ -570,52 +578,52 @@
 }
 .star111 {
   left: 98em;
-  top: 56rem;
+  top: 16rem;
   animation: star1 4s ease-in-out 1s infinite;
 }
 
 .star112 {
-  left: 117rem;
-  top: 37rem;
+  left: 107rem;
+  top: 27rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star113 {
-  left: 65rem;
-  top: 59rem;
+  left: 95rem;
+  top: 19rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star114 {
-  left: 42rem;
+  left: 92rem;
   top: 3rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star115 {
-  left: 40rem;
-  top: 5rem;
+  left: 33rem;
+  top: 1rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star116 {
-  left: 44rem;
+  left: 21rem;
   top: 7rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star117 {
-  left: 48rem;
+  left: 15rem;
   top: 8rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star118 {
-  left: 46rem;
+  left: 11rem;
   top: 9rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star119 {
-  left: 53rem;
+  left: 3rem;
   top: 7rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star120 {
-  left: 34rem;
+  left: 2rem;
   top: 2rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
@@ -631,23 +639,23 @@
 }
 .star123 {
   left: 58rem;
-  top: 4rem;
+  top: 2rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
 
 .star124 {
-  left: 61rem;
+  left: 91rem;
   top: 6rem;
   animation: star4 4s ease-in-out 0s infinite;
 }
 
 .star125 {
-  left: 63rem;
-  top: 4rem;
+  left: 93rem;
+  top: 2rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
 .star126 {
-  left: 54rem;
+  left: 24rem;
   top: 1rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
@@ -657,13 +665,13 @@
   animation: star3 4s ease-in-out 0s infinite;
 }
 .star128 {
-  left: 80rem;
-  top: 3rem;
+  top: 6rem;
+  left: 73rem;
   animation: star4 4s ease-in-out 0s infinite;
 }
 .star129 {
-  left: 85rem;
-  top: 3rem;
+  top: 8rem;
+  left: 63rem;
   animation: star1 4s ease-in-out 0s infinite;
 }
 .star130 {
@@ -672,53 +680,53 @@
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star131 {
-  left: 106rem;
-  top: 5rem;
+  left: 87rem;
+  top: 1rem;
   animation: star1 4s ease-in-out 1s infinite;
 }
 .star132 {
-  left: 105rem;
-  top: 6rem;
+  left: 95rem;
+  top: 15rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star133 {
-  left: 108rem;
-  top: 10rem;
+  left: 58rem;
+  top: 19rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star134 {
-  left: 111rem;
-  top: 18rem;
+  left: 55rem;
+  top: 1rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star135 {
-  left: 101rem;
-  top: 15rem;
+  left: 115rem;
+  top: 2rem;
   animation: star2 4s ease-in-out 1s infinite;
 }
 .star136 {
-  left: 118rem;
-  top: 15rem;
+  left: 114rem;
+  top: 3rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star137 {
-  left: 65rem;
-  top: 35rem;
+  left: 113rem;
+  top: 3rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star138 {
-  left: 79rem;
+  left: 10rem;
   top: 23rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star139 {
-  left: 43rem;
+  left: 93rem;
   top: 18rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star140 {
   left: 100rem;
-  top: 50rem;
+  top: 10rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
 .star141 {
@@ -729,37 +737,37 @@
 
 .star142 {
   left: 100rem;
-  top: 44rem;
+  top: 24rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
 .star143 {
   left: 106rem;
-  top: 57rem;
+  top: 17rem;
   animation: star3 4s ease-in-out 0s infinite;
 }
 .star144 {
-  left: 90rem;
-  top: 52rem;
+  left: 21rem;
+  top: 23rem;
   animation: star2 4s ease-in-out 0s infinite;
 }
 .star145 {
-  left: 89rem;
-  top: 35em;
+  top: 28rem;
+  left: 97em;
   animation: star4 4s ease-in-out 0s infinite;
 }
 .star146 {
-  left: 87rem;
-  top: 51rem;
+  top: 22rem;
+  left: 69rem;
   animation: star1 4s ease-in-out 0s infinite;
 }
 .star147 {
   left: 90rem;
-  top: 52rem;
+  top: 1rem;
   animation: star3 4s ease-in-out 0s infinite;
 }
 .star148 {
   left: 93rem;
-  top: 44rem;
+  top: 10rem;
   animation: star4 4s ease-in-out 0s infinite;
 }
 .star149 {
@@ -774,7 +782,7 @@
 }
 .star151 {
   left: 115rem;
-  top: 44rem;
+  top: 24rem;
   animation: star4 3s ease-in-out 0s infinite;
 }
 .star152 {
@@ -789,12 +797,12 @@
 }
 .star154 {
   left: 111rem;
-  top: 56rem;
+  top: 16rem;
   animation: star2 1s ease-in-out 0s infinite;
 }
 .star155 {
   left: 115rem;
-  top: 44rem;
+  top: 24rem;
   animation: star1 3s ease-in-out 0s infinite;
 }
 .star156 {
@@ -803,74 +811,74 @@
   animation: star1 4s ease-in-out 0s infinite;
 }
 .star157 {
-  left: 115rem;
-  top: 37rem;
+  left: 105rem;
+  top: 27rem;
   animation: star3 2s ease-in-out 0s infinite;
 }
 .star158 {
-  left: 82rem;
-  top: 57rem;
+  left: 65rem;
+  top: 17rem;
   animation: star4 1s ease-in-out 0s infinite;
 }
 .star159 {
-  left: 99rem;
-  top: 51rem;
+  left: 90rem;
+  top: 8rem;
   animation: star4 3s ease-in-out 1s infinite;
 }
 .star160 {
   left: 2rem;
-  top: 44rem;
+  top: 24rem;
   animation: star3 2s ease-in-out 1s infinite;
 }
 .star161 {
   left: 5em;
-  top: 40rem;
+  top: 20rem;
   animation: star1 1s ease-in-out 1s infinite;
 }
 
 .star162 {
   left: 7rem;
-  top: 35rem;
+  top: 15rem;
   animation: star3 3s ease-in-out 1s infinite;
 }
 .star163 {
   left: 2rem;
-  top: 58rem;
+  top: 18rem;
   animation: star2 2s ease-in-out 1s infinite;
 }
 .star164 {
-  left: 5rem;
-  top: 54rem;
+  left: 65rem;
+  top: 24rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star165 {
   left: 65rem;
-  top: 48rem;
+  top: 1rem;
   animation: star2 1s ease-in-out 1s infinite;
 }
 .star166 {
-  left: 24rem;
-  top: 57rem;
+  left: 104rem;
+  top: 14rem;
   animation: star4 4s ease-in-out 1s infinite;
 }
 .star167 {
-  left: 73rem;
-  top: 57rem;
+  left: 33rem;
+  top: 26rem;
   animation: star2 2s ease-in-out 1s infinite;
 }
 .star168 {
-  left: 1rem;
-  top: 55rem;
+  left: 65rem;
+  top: 15rem;
   animation: star3 4s ease-in-out 1s infinite;
 }
 .star169 {
-  left: 50rem;
-  top: 55rem;
+  left: 100rem;
+  top: 1rem;
   animation: star4 3s ease-in-out 1s infinite;
 }
 .star170 {
-  left: 69rem;
-  top: 53rem;
+  left: 65rem;
+  top: 0.5rem;
   animation: star4 1s ease-in-out 1s infinite;
 }
 /*animations*/
@@ -930,11 +938,4 @@
   100% {
     opacity: 0.75;
   }
-}
-/*lovers*/
-.lovers {
-  width: 70rem;
-  margin-bottom: -57.8rem;
-  margin-left: 27rem;
-  z-index: 99;
 }
